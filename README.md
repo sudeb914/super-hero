@@ -1,20 +1,42 @@
-Introduce Us
+# Citizen in Our Country Project
 
-Live site link : https://tender-shannon-ebb714.netlify.app/
+Live Site Link: https://tender-shannon-ebb714.netlify.app/
 
-About This Project
+## Description
 
-.This is a project where you can find world class freelancer programmers. You can hire them for you rown project. You are given a budget. You are to find a combination of programmers to finish your projects. You will try to keep the budget under the given default budget. This was an assignment project given to me as a test by Programming Hero Team.
+Deatails of Citizen in Our Country are given. In this web page we are collecting many data.
 
-Features Of This Project
+## Card
 
-.The used Api was entirely created by me. The data here are collected from programming hero facebook group and the moderstors profile.
-The cart will update dynamically if you wanted hire one or multiple programmers. The Team members, their numbers and the budget will update itself dynamically.
-This site was deployed on Netlify. The link is provided in the top.
-The only bug of this site is that you can hire a single programmer multiple times in a single project. That is unrealistic.
+In Every card, there are information about a single citizen.
 
-Used Resouces
+### Name
 
-.In the project, we used:
-This was my first offical project on React.
-I used Bootstrap to style the whole project. Not even a single line of Pure CSS was used in this project!
+The name of the citizen.
+
+### Profession
+
+Profession of the citizen.
+
+### Age
+
+Age of the citizen.
+
+### Address
+
+Address of the citizen.
+
+### Salary
+
+Monthly salary of the citizen.
+
+
+## Resources
+
+### HTML
+
+### React
+
+### CSS
+
+*Note: This was an assignment!*
